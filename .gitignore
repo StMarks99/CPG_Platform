@@ -1,0 +1,19 @@
+# Office lock and temp files
+~$*
+*.tmp
+
+# OS clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+
+# Code (for src/, later)
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+.env
